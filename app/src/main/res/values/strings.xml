@@ -27,4 +27,5 @@
     <string name="wifi_password">Wifi Password</string>
     <string name="update_credentials">Update Credentials</string>
     <string name="blank" />
+    <string name="permission_required">BLE permission must be required</string>
 </resources>
